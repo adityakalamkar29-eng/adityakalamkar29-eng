@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+ADITYA KALAMKAR<br> <br>Motivated MCA student seeking an entry-level Java Developer role to apply strong skills in Core Java, J2EE (Servlets & JSP), JDBC, and MySQL to build scalable and efficient backend applications. Eager to contribute to team success through problem-solving, collaboration, and continuous learning.<br> <br>Master of Computer Applications (MCA)<br>IPS Academy, RGPV, Indore | 2024 – Present<br>B.Sc. Computer Science<br>Govt. Holkar Science College, DAVV, Indore | 2021 – 2024<br>Higher Secondary (CBSE)<br>Alpine Academy, Indore | 2021<br> <br>•	Programming Languages: Java, C++<br>•	Backend Technologies: JDBC, J2EE (Servlets, JSP - Basics), Spring Boot (Basics)<br>•	Web Technologies: HTML, CSS<br>•	Database: MySQL<br>•	Testing & Tools: Git (Basic)<br>•	Concepts: OOP, REST API Basics<br> <br>Java Intern<br>Ypsilon IT Solutions Pvt. Ltd.<br>August 2025 – September 2025 <br>- Contributed to a live project using Java and J2EE technologies. <br>-Developed backend functionalities and handled database operations.<br>- Implemented CRUD operations and optimized queries for performance. <br>- Tested modules to ensure reliability and reduce bugs. Collaborated with team members to deliver project components on time.<br> <br>1<br>🚀 PROJECTS<br>Event Management System<br>•	Developed a Java-based application using JDBC and MySQL for managing events.<br>•	Implemented CRUD operations for event booking and management.<br>•	Designed database schema for efficient data storage and retrieval.<br>•	Added features for searching, updating, and deleting event records.<br>Product Price Catalog<br>•	Built a Java application to manage product names and prices using JDBC.<br>•	Implemented add, update, delete, and search functionalities.<br>•	Ensured efficient interaction with MySQL database.<br> <br>Agentic AI – Neurons Schools<br>June 2025 - Learned fundamentals of LLM-powered and agent-based AI systems.<br> <br>•	English<br>•	Hindi<br> <br>•	Communication<br>•	Team Collaboration<br>•	Problem Solving<br>•	Adaptability<br>•	Accountability<br> <br>•	Quick learner with strong interest in backend development.<br>•	Ability to work independently on modules and meet deadlines.<br>•	Passionate about writing clean, maintainable, and efficient code.<br>
 
-<!--
-**adityakalamkar29-eng/adityakalamkar29-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakalamkar29@gmail.com ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aditya Kalamkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityakalamkar29@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adityakalamkar29-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adityakalamkar29-eng&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakalamkar29-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=adityakalamkar29-eng&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
